@@ -1,5 +1,5 @@
 (function(){
-  var html = `
+  var html = ` 
 <style>
 .cb-popup-wrap{max-width:420px;margin:auto;font-family:Arial,sans-serif;background:#090909;border-radius:15px;overflow:hidden}
 .cb-header{background:linear-gradient(90deg,#8b5a00,#ffd36a,#8b5a00);color:#120800;text-align:center;padding:9px;font-size:13px;font-weight:900}
