@@ -19,7 +19,7 @@
   <div class="cb-header" id="cbTitle">⚽ WORLD CUP CHAMPIONSHIP ⚽</div>
 
   <div class="cb-banner">
-    <img id="cbImg" src="http://plcl.me/images/sY4EF.jpg" alt="World Cup Event">
+    <img id="cbImg" src="http://plcl.me/images/sY4EF.jpg" alt="World Cup Event"> 
   </div>
 
   <div class="cb-action">
